@@ -1,3 +1,4 @@
+#List
 abatement n.减轻，减少
 abbreviate v.缩短；缩写
 aberrant a.越轨的；异常的
@@ -143,6 +144,7 @@ antecedent n.前事；前辈；a.先行的
 antedate v.早于
 anterior a.较早的，以前的
 antibiotic n.抗生素；a.抗菌的
+#List
 anticipatory a.预想的，预期的
 anticlimactic a.突减的
 antidote n.解毒药
@@ -281,6 +283,7 @@ beleaguer v.围攻；骚扰
 belie v.掩饰；证明为假
 belittle v.轻视，贬抑
 bellicose a.好战的，好斗的
+#List
 belligerent adj.发动战争的；好斗的，好挑衅的
 bemuse v.使迷惑
 benefactor n.行善者，捐助者
@@ -428,6 +431,7 @@ circuitous a.迂回的，绕圈子的
 circulate v.循环；流通；发行
 circulation n.循环，流通；发行额
 circumlocution n.迂回累赘的陈述
+#List
 circumscribe v.限制，划界限
 circumspect a.慎重的
 circumstantial a.不重要的，偶然的；描述详细的
@@ -564,6 +568,7 @@ constant a.稳定的，不变的 n.常数
 consternation n.大为吃惊，惊骇
 constituent n.成分；选区内的选民
 constitute v.组成，构成；建立
+#List
 constitution n.宪法；人的体质
 constrain v.束缚，强迫；限制
 constraint n.强制，强迫；对感情的压抑
@@ -696,6 +701,7 @@ dehumanize v.使失掉人性
 dehydrate v.除去水分，脱水
 deign v.屈尊，惠允(做某事)
 deleterious a.(对身心)有害的，有毒的
+#List
 deliberate a.深思熟虑的 故意的；v.慎重考虑
 deliberation n.细想，考虑
 delimit v.定界，划界
@@ -832,6 +838,7 @@ distinguish v.成为…的特征，使有别于；把…分类；区别，辨别
 distort v.扭曲，弄歪
 distortion n.扭曲，曲解
 distraught a.心神狂乱的
+#List
 diurnal a.白昼的，白天的
 diverge v.（意见）分歧；（线路、道路）分开
 divergent a.分叉的，岔开的
@@ -966,6 +973,7 @@ epic n.叙事诗，史诗；a.英雄的；大规模的
 episodic a.偶然发生的，分散性的
 epitome n.典型；梗概，摘要
 epoch n.新纪元；重大的事件
+#List
 equator n.赤道
 equestrian a.骑马的；骑士阶层的
 equilibrium n.平衡
@@ -1103,6 +1111,7 @@ fickle a.(爱情或友谊上)易变的，不坚定的
 fickleness n.浮躁，变化无常
 fictitious a.假的；虚构的
 figment n.虚构的东西
+#List
 finicky a.苛求的，过分讲究的
 fireproof adj.耐火的，防火的
 flabby a.不结实的，松弛的；意志薄弱的
@@ -1242,6 +1251,7 @@ grave a.严重的，严峻的；n.墓穴
 gravity n.严肃性，重要性，正经；引力，重力
 graze v.(动物)吃(地上长的)草；放牧
 gregarious a.群居的；爱社交的
+#List
 grief n.忧伤，悲伤
 grieve v.使某人极为悲伤
 grim a.(表情)冷酷的，严厉的，可怕的
@@ -1392,6 +1402,7 @@ impersonal a.不受个人感情影响的
 impersonate v.模仿；扮演
 impertinence n.无礼，粗鲁
 imperturbable a.冷静的，沉着的
+#List
 impervious a.（液体、气体）不能渗透的；不为所动的
 impetuous a.冲动的，鲁莽的
 impiety n.不虔诚，无信仰
@@ -1532,6 +1543,7 @@ ingest v.咽下，吞下
 ingrain adj.根深蒂固的 n.本质
 ingrained a.根深蒂固的，极难除掉的
 ingrate n.忘恩负义的人
+#List
 ingratiating a.讨好的，谄媚的；讨人喜欢的，迷人的
 inhabit v.栖居于，占据
 inherent a.固有的，内在的
@@ -1670,6 +1682,7 @@ justify v.证明…是正当的
 juvenile a.少年的，似少年的
 keen a.锋利的，敏锐的；热心的
 kidney n.肾
+#List
 misalliance n.不适当的结合
 misanthrope n.厌恶人类者
 mischievous adj.淘气的，有害的
@@ -1810,6 +1823,7 @@ omit v.省略，排除，删除；疏忽，忘记做，遗漏
 omnipotent a.全能的，万能的；权利无限的
 onerous a.繁重的，麻烦的
 ongoing a.进行中的；前进的；不间断的
+#List
 opacity n.不透明性；晦涩，难懂
 opalescent adj.发乳白色光的
 operable adj.可操作的，可以使用的
@@ -1951,6 +1965,7 @@ perpetrate v.犯罪
 perpetuate v.使永存，使永记不忘
 perquisite n.固定津贴，利益，好处
 persist v.坚持不懈，执意；坚持问，不停说话；长存
+#List
 perspective n.(判断事物的)角度，方法；透视法
 perspicacious a.判断力强的，有识别力的，有洞察力的，独具慧眼的
 perspicuous a.(语言，文章)明晰的，表达清楚的
@@ -2092,6 +2107,7 @@ proclamation n.宣布，公告
 proclivity n.倾向
 procurement n.获得，接收
 prod v.刺，捅；激励
+#List
 prodigal a.挥霍的；n.挥霍者
 prodigious a.(体积，数量，程度上)巨大的
 proficiency n.进步；熟练，精通
@@ -2232,6 +2248,7 @@ recur v.重现，再发生；复发
 recurrent a.循环的；一再发生的
 recurring adj.反复的
 redeem v.赎罪
+#List
 redirect v.改寄(信件)；改变方向
 redistribution n.重新分配
 redundant a.累赘的，多余的
@@ -2372,6 +2389,7 @@ robust a.健壮的
 rocky adj.多岩石的；坚若磐石的
 romance n.传奇故事；虚构；浪漫气氛 v.虚构
 roseate a.玫瑰色的；过分乐观的
+#List
 routine n.常规 adj.平常的，常规的
 rowdy a.吵闹的；粗暴的
 rubbery adj.橡胶似的，有弹性的
@@ -2509,6 +2527,7 @@ smug a.自满的，自命不凡的
 snippet n.小片，片段
 snobbery n.势利
 snub v.冷落，不理睬
+#List
 snug a.温暖的，舒适的
 sobriety n.庄重，认真，审慎
 sociable a.好交际的，合群的；友善的
@@ -2646,6 +2665,7 @@ superannuate v.使退休领取养老金
 supercilious a.目中无人的，高傲的
 superfluous a.多余的，累赘的
 supersede v.淘汰，取代
+#List
 superstructure n.上层建筑；上层构造
 supplant v.取代，排挤
 supple a.伸屈自如的，柔软易弯曲的
@@ -2780,6 +2800,7 @@ transformation n.转变，转化
 transgress v.违背(法律或道德的限度)
 transient a.短暂的，转瞬即逝的
 transit n.通过；改变；运输
+#List
 transitional a.转变的，变迁的
 transitoriness n.暂时，短暂
 transitory a.短暂的
@@ -2898,6 +2919,7 @@ unquestioning adj.无异议的，不犹豫的
 unreasonable adj.不讲道理的；非理智的，过分的
 unregulated a.未受管理的，未受约束的
 unremitting a.不间断的，持续的
+#List
 unreserved a.无限制的；未被预定的
 unscathed a.未受损伤的，未遭伤害的
 unscented a.无气味的

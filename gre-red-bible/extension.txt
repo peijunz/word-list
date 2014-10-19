@@ -1,3 +1,4 @@
+#List
 abase v.降低···的地位，贬抑，使卑下
 abash v.使害羞，使尴尬
 abate v.减轻，减少
@@ -152,6 +153,7 @@ aspirant n.有抱负者
 aspire v.向往，有志于
 assault n.突然袭击；猛袭
 assemble v.集合，聚集；装配
+#List
 assent v.同意，赞成
 assert v.断言，主张
 assess v.确定，评定；估计…的质量
@@ -311,6 +313,7 @@ budget n.预算
 buffer v.缓冲，减轻
 buffet v.反复敲击；连续打击
 buffoon n.演出时的丑角；粗俗而愚蠢的人
+#List
 bulge n./v.膨胀，鼓起
 bullion n.金条，银条
 bully v.以强欺弱，威胁；n.欺负别人者
@@ -471,6 +474,7 @@ comma n.逗号
 commemorate v.纪念(伟人、大事件等)
 commence v.开始，倡导
 commencement n.开始；(大学的)毕业典礼
+#List
 commit v.托付；承诺；犯罪
 commonplace a.平常的，平庸的
 commonsense a.具有常识的
@@ -627,6 +631,7 @@ deaden v.减低某物的力量或强度
 deadlock n.相持不下，僵局
 debar v.阻止
 debark v.下船，下飞机，下车，卸载
+#List
 debility n.衰弱，虚弱
 debonair a.温雅的，无忧无虑的
 debrief v.盘问，听取报告
@@ -782,6 +787,7 @@ distrait a.心不在焉的
 distress n.痛苦，悲痛
 district n.地区，行政区，（美国各州的）众议院选区
 dither v.慌张；犹豫不决 n.慌张；慌乱
+#List
 divagate v.离题；漂泊
 divine v.占卜，卜测；a.神的
 dock v.剪短（尾巴等）；扣去（薪水，津贴）
@@ -934,6 +940,7 @@ everlasting adj.永恒的，永久的；无休止的
 evict v.(依法)驱逐
 exactitude n.极端的正确性或精确性
 exalt v.(高度)赞扬，歌颂
+#List
 exaltation n.(成功带来的)得意，高兴
 exceptionable a.引起反感的
 exceptional a.特别(好)的
@@ -1083,6 +1090,7 @@ fragrance n.香料；香味
 fraternal a.兄弟的，兄弟般的
 frenzy n.狂乱，狂暴；暂时性疯狂
 friable a.易碎的，脆的
+#List
 frigidity n.寒冷；冷淡
 fringe n.(窗帘等)须边；边缘
 frisk n.欢跃，蹦跳； v.欢跃，嬉戏
@@ -1237,6 +1245,7 @@ harpsichord n.键琴(钢琴前身)
 harrow n.耙；v.使痛苦
 harrowing a.悲痛的，难受的
 harry v.掠夺；袭扰，折磨
+#List
 harshly adv.严酷地，无情地
 hash n.杂乱，混乱；杂烩菜
 hasten v.加速，加快，促进
@@ -1395,6 +1404,7 @@ inelasticity n.无弹性，无伸缩性
 ineluctable a.不可避免的，难免的
 inexpedient a.不适当的，不明智的
 inexpiable a.不能补偿的
+#List
 infantry n.步兵
 infatuate v.使迷恋，使糊涂
 infelicitous a.不幸的；不妥当的
@@ -1553,6 +1563,7 @@ languid a.没精打采的，倦怠的
 languish v.变得衰弱；失去活力
 languor n.无精打采，虚弱无力
 lank a.（人）瘦长的；（毛发）平直而软的
+#List
 lap v.舔着喝水；(水)轻拍，发出轻拍声；(用磨具)抛光、磨光
 lapse n.失误，小错；(时间等)流逝
 lard v.使丰富，使充满
@@ -1712,6 +1723,7 @@ mellifluous a.(音乐等)柔美流畅的，嗓音甜美动听的
 melon n.甜瓜
 membrane n.薄膜；细胞膜
 menace v./n.威胁，危险
+#List
 mend v.修改，改进
 mendacious a.不真的；撒谎的
 mendacity n.虚假
@@ -1868,6 +1880,7 @@ obnoxious a.令人不愉快的；可憎的
 observance n.(对法律、习俗等的)遵守，奉行
 obsess v.迷住；使…困窘，使…烦扰
 obsession n.入迷，着迷；执念
+#List
 obsolete a.废弃的；过时的
 obstinate a.固执的，倔强的
 obstreperous a.吵闹的；难管束的
@@ -2024,6 +2037,7 @@ peril n.危险
 periphrastic a.迂回的，冗赘的
 perish v.死，毁灭
 perishing a.严寒的
+#List
 perjure v.使作伪证，发假誓
 perjury n.伪证，假誓
 perk v.恢复，振作 ；打扮
@@ -2180,6 +2194,7 @@ procrustean a.强求一致的
 profane v.亵渎，玷污
 proffer n./v.献出，提供；提议，建议
 profiteer n.奸商，牟取暴利者，大发不义之财者
+#List
 profligate a.挥霍的，浪费的；n.恣意挥霍者
 progenitor n.祖先
 progeny n.后代，子女
@@ -2336,6 +2351,7 @@ remand v.遣回；召回
 reminder n.提醒人，记忆之物
 reminisce v.&n.追忆，怀旧
 remission n.宽恕，豁免
+#List
 remit v.免除；宽恕；汇款
 remittance n.汇款
 remonstrance n.抗议，抱怨
@@ -2491,6 +2507,7 @@ scurry v.(小步)急跑，疾行
 scurvy a.卑鄙的，可鄙的；n.坏血病
 scutter v.疾走，飞奔
 seafaring a.航海的，跟航海有关的
+#List
 seam n.缝，接缝(尤指布)
 seamy a.肮脏的，污秽的，恶劣的，丑恶的
 sear v.(以烈火)烧灼，烧焦
@@ -2647,6 +2664,7 @@ spindly adj.细长的，纤弱的
 spite n.怨恨，恶意
 splashy a.容易溅开的；炫耀显眼的
 spleen n.怨怒，怒气；脾脏
+#List
 splice v.接合，衔接(绳子，胶卷等)
 split n./v.分裂，裂开
 spoilsport n.使人扫兴的人
@@ -2801,6 +2819,7 @@ swill v.冲洗；大喝，痛饮
 swindle v.诈骗
 swine n.猪
 swing v.摇摆；旋转；n.秋千
+#List
 swipe n./v. 猛击
 swirl v.旋转，起漩涡；n.漩涡
 swoop v.猛扑；攫取
@@ -2959,6 +2978,7 @@ unkempt a.蓬乱的，未数理的；不整洁的，乱糟糟的
 unprepossessing a.不吸引人的
 unprovoked a.(生气等)无缘无故的
 unravel v.解开，拆散
+#List
 unregenerate a.不知悔改的
 unrepentant a.不悔悟的，不后悔的
 unscrupulousness n.狂妄，肆无忌惮
