@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-a='hello'
-b='3k1'
+a='hello'#单词所在文件
+b='3k1'#词典所在文件
 D=dict()
 fa=open(a,'r')
 fb=open(b,'r')
