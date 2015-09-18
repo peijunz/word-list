@@ -8,11 +8,12 @@ luni=0
 uniwor=0
 liswor=0
 di='./'
-fm=open(di+'3000List','w')
+fm=open(di+'3000.lst','w')
 for i in li:
     if('List' in i):
         count+=1
-        fw=open(di+'sub/3000List'+str(count),'w')
+        fm.write('# List\n')
+        #fw=open(di+'SubLists/3000-'+str(count)+'.lst','w')
         continue
     if ('Unit' in i) and ('United' not in i):
         continue
@@ -21,10 +22,10 @@ for i in li:
     for j in li:
         if (j != word) and ('考法' in j):
             cc=word+'\t'+j.split('】')[1]+'\n'
-            fw.write(cc)
+            #fw.write(cc)
             fm.write(cc)
-fw.close()
-#fm.close()
+#fw.close()
+fm.close()
 #for i in li:
     #if len(i)>10:
         #count+=1
