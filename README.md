@@ -14,7 +14,7 @@
 - 将一系列词汇表转换为`.kvtml`
 - 将词汇表文档分解为多个文档
 - 逆向排序
-- 生成可LaTeX文档`.tex`
+- 生成LaTeX文档`.tex`
 
 # 添加音标
 需要利用[word-pron](https://github.com/peijunz/word-pron/releases/latest)音标库的`pronlib.py`以及相关数据
